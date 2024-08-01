@@ -1,0 +1,6 @@
+script defer
+====================================================
+input event:when a user writes something in an <input> field:
+============================================================
+to make a copy from any text to clipboard
+navigator.clipboart.writeText("text")
